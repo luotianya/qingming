@@ -1,0 +1,16 @@
+/* 
+  Name:			SectorShrink
+  Type:			Exit
+  Description:	SectorShrink
+  Version:		2.0	
+  locale:		{"zh-Hans":"扇形收缩", "en-US":"Sector Shrink"}
+  Class:        SectorShrink
+ */
+ 
+@keyframes sectorShrink{
+	
+}
+
+.sectorShrink{
+	animation-duration: 2s;
+}

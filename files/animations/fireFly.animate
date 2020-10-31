@@ -1,0 +1,17 @@
+/* 
+  Name:			FireFly
+  Type:			Emphasis
+  Description:	
+  Version:		2.0	
+  locale:		{"zh-Hans":"萤火虫", "en-US":"FireFly"}
+  Class:        FireFly
+  Parameter:   	<^   {"Options":{"times":1, "color":"0xFFFF00"}}   $>
+ */
+ 
+@keyframes firefly {
+	
+}
+
+.randomFirefly{
+	animation-duration: 10s;	
+}

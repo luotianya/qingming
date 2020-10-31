@@ -1,0 +1,21 @@
+/* 
+  Name:			Fade Out Left
+  Type:			Exit
+  Description:	Fade Out Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"左侧淡出", "en-US":"Fade Out Left"}
+ */
+@keyframes fadeOutLeft {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    transform: translate3d(-100%, 0, 0);
+  }
+}
+
+.fadeOutLeft {
+  animation-name: fadeOutLeft;
+}

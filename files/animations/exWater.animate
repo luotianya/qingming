@@ -1,0 +1,17 @@
+/* 
+  Name:			ExWater
+  Type:			Emphasis
+  Description:	exWater Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"水纹", "en-US":"ExWater"}
+  Class:        ExWater
+  Parameter:    <^   {"Options":{"times":1}}   $>
+ */
+ 
+@keyframes exWater{
+	
+}
+
+.exWater{
+	animation-duration: 2s;
+}

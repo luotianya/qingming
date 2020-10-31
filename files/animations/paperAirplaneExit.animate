@@ -1,0 +1,16 @@
+/* 
+  Name:			PaperAirplaneExit
+  Type:			Exit
+  Description:	PaperAirplaneExit
+  Version:		2.0	
+  locale:		{"zh-Hans":"纸飞机", "en-US":"Paper Airplane"}
+  Class:        PaperAirplaneExit
+ */
+ 
+@keyframes paperAirplaneExit{
+	
+}
+
+.paperAirplaneExit{
+	animation-duration: 2s;
+}
